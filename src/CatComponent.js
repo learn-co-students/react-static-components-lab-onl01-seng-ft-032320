@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 export default class CatComponent extends Component {
   render() {
@@ -9,3 +9,5 @@ export default class CatComponent extends Component {
     );
   }
 }
+
+export default CatComponent;
